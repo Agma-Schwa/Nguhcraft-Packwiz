@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Nguhcraft.jar"
+hash = "98445f9b50dceada4060c13e1ba12b2a385c6acf065b07a06c0b73702002dadf"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
