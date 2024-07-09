@@ -2,7 +2,17 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "98445f9b50dceada4060c13e1ba12b2a385c6acf065b07a06c0b73702002dadf"
+hash = "6af5ad30730edbf4edd908dd2126f062b75d8c3c3b1fe1bebc6637023aa2efbb"
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "49f0282e2f2972d666728cd4d56c049d41f4d89b40cf4167a202b136488b71ff"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -12,4 +22,29 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
