@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "22ff3dbbe8b4ce5461744e2da46aef9ee39bd775cd962208eebe0027e097d890"
+hash = "edb4f45c430f8bada589a94ccce38732c66a7ac7cdbadf6e8e0bdeb33cd8f32a"
 
 [[files]]
 file = "mods/axiom.pw.toml"
