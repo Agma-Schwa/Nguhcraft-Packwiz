@@ -30,6 +30,11 @@ hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
 metafile = true
 
 [[files]]
