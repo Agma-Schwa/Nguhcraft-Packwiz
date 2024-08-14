@@ -1,12 +1,12 @@
 name = "Nguhcraft"
 author = "Ætérnal"
-version = "1.0.3"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ece710eba58d8df9ea40e890a2c1b96f10cda1999ae6a33c2a6d9746a4292307"
+hash = "4543dc011da7d18eae487b27cb1b18d7698b908e9b5ef742a6c3a1bb2d59e4d0"
 
 [versions]
 fabric = "0.15.11"

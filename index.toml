@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "67204d0428b8b8a77ffa404ad90d170ff1820a5342c8b46ec3a28cf7f06d18c3"
+hash = "1039dbe09bc3b5d2c3db1dcee77f2d3929f2d9ab842a6ed3eaaf3181fe364a38"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -53,3 +53,7 @@ metafile = true
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
+
+[[files]]
+file = "update.sh"
+hash = "abb1f3e26660945c7b23b0c6ec532bfedbe2667a9b5431556e3442bc88d1aab7"
