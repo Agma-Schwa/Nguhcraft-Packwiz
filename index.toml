@@ -40,11 +40,6 @@ hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
 metafile = true
