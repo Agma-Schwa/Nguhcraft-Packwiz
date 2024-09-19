@@ -2,12 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "108d7a92e1397735ef28d0864899dcbf96731250604b150ebdf33ba634d072bf"
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "49f0282e2f2972d666728cd4d56c049d41f4d89b40cf4167a202b136488b71ff"
-metafile = true
+hash = "a10b9486ef90197377f48efd6b40610895ba32762d8902b5ea08a32b3f7be693"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -51,4 +46,4 @@ metafile = true
 
 [[files]]
 file = "update.sh"
-hash = "abb1f3e26660945c7b23b0c6ec532bfedbe2667a9b5431556e3442bc88d1aab7"
+hash = "3a3b50cbcb1772a62b2a69164643425556a647bdd232378ce6c4398c22b27f7a"
