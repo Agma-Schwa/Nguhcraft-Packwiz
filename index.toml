@@ -2,21 +2,21 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "87e5541c8edcbd9e5d000d6f22ccf138ce53157bcba2c237a74c9e2855a80152"
+hash = "0d7e76e3695f06e2389bfa8b239826926c398df9529adb5feb4e2760047e949f"
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
+hash = "7598b771f1b957fde929ec13696dd7693dce4df4eb7fe6473d1ec1ca352fce69"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
@@ -31,17 +31,22 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
+hash = "266e2b68f74e7b71a1f32df681d52a8f6c00541f8fc4ecb7e8c79bde9b8dd987"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+hash = "c30391c4a9d653785b20d4bc8bc37bc6b98fa750f13ecb04beb48a492547b91e"
 metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "ba67bac1fa5e81838b2be0469951eef646ec0a890abb2a04aac49bb87512fe1e"
 metafile = true
 
 [[files]]
