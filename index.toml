@@ -11,17 +11,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
+hash = "cd5b9b8647e4403ff283d49a1043a43ae953deb1e408f237beb177a31fd9c17a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
-metafile = true
-
-[[files]]
-file = "mods/invview.pw.toml"
-hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
@@ -31,12 +26,12 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "266e2b68f74e7b71a1f32df681d52a8f6c00541f8fc4ecb7e8c79bde9b8dd987"
+hash = "b4ccc6ec062aaf71e9c81d7f92b17bd90656a2c1d4ed5a492cc9486685a48fe4"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c30391c4a9d653785b20d4bc8bc37bc6b98fa750f13ecb04beb48a492547b91e"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
 metafile = true
 
 [[files]]
@@ -45,7 +40,12 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
+file = "not-yet-updated/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
+file = "not-yet-updated/worldedit.pw.toml"
 hash = "ba67bac1fa5e81838b2be0469951eef646ec0a890abb2a04aac49bb87512fe1e"
 metafile = true
 
