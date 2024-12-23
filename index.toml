@@ -40,13 +40,13 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
-file = "not-yet-updated/invview.pw.toml"
-hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+file = "mods/worldedit.pw.toml"
+hash = "0c4644aa15fa792066ae1c09fe4b03cb5af53d5686cde2917207641a7217bc29"
 metafile = true
 
 [[files]]
-file = "not-yet-updated/worldedit.pw.toml"
-hash = "ba67bac1fa5e81838b2be0469951eef646ec0a890abb2a04aac49bb87512fe1e"
+file = "not-yet-updated/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
 metafile = true
 
 [[files]]
