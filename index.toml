@@ -2,14 +2,63 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "98445f9b50dceada4060c13e1ba12b2a385c6acf065b07a06c0b73702002dadf"
+hash = "57464ef921469a1cc835f5e52f690930b8e4b258337a0f9abe23e963c322db39"
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "7598b771f1b957fde929ec13696dd7693dce4df4eb7fe6473d1ec1ca352fce69"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
+
+[[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "f519f386066ded4b95dacc87ffd32408dd57c68c8c29431890197ec937db59ff"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "b4ccc6ec062aaf71e9c81d7f92b17bd90656a2c1d4ed5a492cc9486685a48fe4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "0c4644aa15fa792066ae1c09fe4b03cb5af53d5686cde2917207641a7217bc29"
+metafile = true
+
+[[files]]
+file = "not-yet-updated/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
+file = "update.sh"
+hash = "3a3b50cbcb1772a62b2a69164643425556a647bdd232378ce6c4398c22b27f7a"
