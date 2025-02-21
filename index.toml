@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "7f955a177024df7124679b314a91bcbf0310f821c29839dc20574b61860a2aa0"
+hash = "37d5e8e5c4a090d11f8ff7f0a0e3a22acdea129f12b6c52db6e5a91f58692092"
 
 [[files]]
 file = "mods/chunky.pw.toml"
