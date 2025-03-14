@@ -25,6 +25,11 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+metafile = true
+
+[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "f519f386066ded4b95dacc87ffd32408dd57c68c8c29431890197ec937db59ff"
 metafile = true
