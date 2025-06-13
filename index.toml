@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "65f703a7cea8921dab96a84a8832db6ed117917d30b84a60e07f2d8499ede7ea"
+hash = "b6e568976ccd5979697bb2dfe49ae2d8ae3c3e6997ef2cbe9a3616dbdadb9a60"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -12,6 +12,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "4fea95284cc5170c8ee671bce323b371a2cf7d8b2f6be5ba0be0ef98d2b39516"
 metafile = true
 
 [[files]]
