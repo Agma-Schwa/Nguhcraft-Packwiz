@@ -2,41 +2,41 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "0f5049c387749e87e93a1f8f2da118272fa4a062c2e9f0e1ec20b6589b354a4f"
+hash = "1725db528a065e9fd242351f26ac3f00e9b56a14347de234e8e9bd2843ce1f34"
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "7598b771f1b957fde929ec13696dd7693dce4df4eb7fe6473d1ec1ca352fce69"
+hash = "a15d4591e9686d2201bab46cd0ed25f15dc7985e9059d02314808c8a8005bf96"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+hash = "63f2ea2f89b1e176aa4d8a82bbc80dae656b85aacde6c38ffda1ed345ea298bc"
 metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "4fea95284cc5170c8ee671bce323b371a2cf7d8b2f6be5ba0be0ef98d2b39516"
+hash = "8e0c8b400602466a850c44460142a5b2a87c23e0ac10a1d86877747a3b82de06"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
+hash = "781e07694c2765c529428388011d611fff85b0c0fc76783d3dd8ee6403c520e1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+hash = "cfb48d257d09f8bb2774e36da577eae1221c16bda1175e22f8fa00e6c98073f6"
 metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+hash = "5a443f37ddd6e9b44a694fd94b39d1e2ce0b3a1a300ebcfe89114ef29f9ea2d5"
 metafile = true
 
 [[files]]
 file = "mods/just-player-heads.pw.toml"
-hash = "f519f386066ded4b95dacc87ffd32408dd57c68c8c29431890197ec937db59ff"
+hash = "267c274351efc6f294860501c8a0ba76478e7393cc2d4959ee4da4da30e9a2b2"
 metafile = true
 
 [[files]]
@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "b4ccc6ec062aaf71e9c81d7f92b17bd90656a2c1d4ed5a492cc9486685a48fe4"
+hash = "552aff612276d262434c369df783b2ddc9d560c4bdf7d81d9549ebc3a8258c8d"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+hash = "169d3e8074da7178a6b0e6a164aeedaf7c3058fd9f6f37d5a82319b3ff2f6ec0"
 metafile = true
 
 [[files]]
@@ -61,12 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "0c4644aa15fa792066ae1c09fe4b03cb5af53d5686cde2917207641a7217bc29"
-metafile = true
-
-[[files]]
-file = "not-yet-updated/invview.pw.toml"
-hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
+hash = "16fcb8def7f1eb68eb62ef3e1dc396e301874dca6ff18fddc192a4458e933915"
 metafile = true
 
 [[files]]
