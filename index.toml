@@ -30,6 +30,11 @@ hash = "cfb48d257d09f8bb2774e36da577eae1221c16bda1175e22f8fa00e6c98073f6"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "daacfd077d443f89b8babfc2db310be8ac04a2dcd06f9c1d98e727595bec6de0"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "5a443f37ddd6e9b44a694fd94b39d1e2ce0b3a1a300ebcfe89114ef29f9ea2d5"
 metafile = true
