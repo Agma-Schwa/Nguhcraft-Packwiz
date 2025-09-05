@@ -1,0 +1,13 @@
+name = "Storage Drawers"
+filename = "StorageDrawers-fabric-1.21.8-18.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/D8EOKM5t/StorageDrawers-fabric-1.21.8-18.3.1.jar"
+hash-format = "sha1"
+hash = "5a30127d240ee8f50cdec56fb9a40d3a586892d8"
+
+[update]
+[update.modrinth]
+mod-id = "guitPqEi"
+version = "D8EOKM5t"
