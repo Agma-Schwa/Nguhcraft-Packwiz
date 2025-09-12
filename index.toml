@@ -5,8 +5,18 @@ file = "mods/Nguhcraft.jar"
 hash = "36eaa035406e70f9818d04b6d772efb29f6bd03d4572852390351bfe9bb20e5d"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "88a6d55d88959c47eaf2545ac1f8e212e144feaf5a2e775aef96c4f3f932ee64"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "a15d4591e9686d2201bab46cd0ed25f15dc7985e9059d02314808c8a8005bf96"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2ffba149ee8a8c283ec050c1ad5b5e5ef930854443f5b52fc3ef233d877a6253"
 metafile = true
 
 [[files]]
@@ -52,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "552aff612276d262434c369df783b2ddc9d560c4bdf7d81d9549ebc3a8258c8d"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "a0c9abf9a809144417d6be144f8d2842d8612628b8258047ded0e6bfd3b7543f"
 metafile = true
 
 [[files]]
