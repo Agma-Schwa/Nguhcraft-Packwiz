@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "b0dcbf83856330d123f2517d8027e7b5a813f5d0d35676232d333951629394d3"
+hash = "4968eb4905380134beab5842cc6c5b81bf09d6c84eea3176ce70f0e7921f78c9"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
