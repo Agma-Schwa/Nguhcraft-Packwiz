@@ -1,0 +1,16 @@
+name = "Nguhcraft"
+author = "Ætérnal"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5bb5a25dc9b9128e738c37967a2f46996ea34905a1ec401212403417f23f339f"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.8"
+
+[options]
+acceptable-game-versions = ["1.21.7"]

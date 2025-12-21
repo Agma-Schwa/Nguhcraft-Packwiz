@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.21.8-8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/mld0ZPD9/collective-1.21.8-8.4.jar"
+hash-format = "sha1"
+hash = "afe63956769dcaaddf904ca28a528b117323f977"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "mld0ZPD9"
