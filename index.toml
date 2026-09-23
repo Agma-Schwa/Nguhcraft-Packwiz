@@ -65,5 +65,9 @@ hash = "25019577bdce2fdd99bdd66a9f9116012174a00eb00c0ca660df4d9753277b8a"
 metafile = true
 
 [[files]]
+file = "temporarily-removed.txt"
+hash = "d2cb6fe244561ffc24067343c7ed0a3202f32006c57f925d010397380f3464d5"
+
+[[files]]
 file = "update.sh"
 hash = "3a3b50cbcb1772a62b2a69164643425556a647bdd232378ce6c4398c22b27f7a"
