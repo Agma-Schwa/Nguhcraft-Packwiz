@@ -2,86 +2,66 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Nguhcraft.jar"
-hash = "8e366a7fa92a0b57bdfa4be443d8ecc5d7ae018499af2022ca48ba43f3b1c1cd"
+hash = "297aa2a415446cae8c766ce540ec8a4caa959057176e9ae585daa58c66b8db34"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "88a6d55d88959c47eaf2545ac1f8e212e144feaf5a2e775aef96c4f3f932ee64"
+hash = "a2104a4c377b1745421da73b4364bfa8751fe77fc31b3563109b319d5d2e5e3b"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "a15d4591e9686d2201bab46cd0ed25f15dc7985e9059d02314808c8a8005bf96"
+hash = "80b60e0d8291846a12ab1cd9cb08268b10a3f095a1e90fe7c420526041d38139"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2ffba149ee8a8c283ec050c1ad5b5e5ef930854443f5b52fc3ef233d877a6253"
+hash = "bd2ac4d337e50daeb40d5fedc75b9cdc732b193fe75df891b1a9f6f9eccdf3e3"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "63f2ea2f89b1e176aa4d8a82bbc80dae656b85aacde6c38ffda1ed345ea298bc"
+hash = "46ca6d22deaea8e60828eaa39ad51b144455c748475c3eba03d5d1938101782c"
 metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "8e0c8b400602466a850c44460142a5b2a87c23e0ac10a1d86877747a3b82de06"
+hash = "0c9f16a50ccf7a54005dcf0891c8a41e3ef13656ae048671ef09351ec8b0c7a0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "781e07694c2765c529428388011d611fff85b0c0fc76783d3dd8ee6403c520e1"
+hash = "d9681ffe9840dee17e0076b2f9f03359ef9dde5faeee3cd0594be9b5c15d9168"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "cfb48d257d09f8bb2774e36da577eae1221c16bda1175e22f8fa00e6c98073f6"
+hash = "b0003a346c8bcd0f89804b82b7a96978aabebbb48cc8623884812f17a891aa78"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "daacfd077d443f89b8babfc2db310be8ac04a2dcd06f9c1d98e727595bec6de0"
-metafile = true
-
-[[files]]
-file = "mods/invview.pw.toml"
-hash = "5a443f37ddd6e9b44a694fd94b39d1e2ce0b3a1a300ebcfe89114ef29f9ea2d5"
+hash = "26a79ac9810f86b6d0a44cb3bf704a6549451472b39edd79d3c7935c627c92be"
 metafile = true
 
 [[files]]
 file = "mods/just-player-heads.pw.toml"
-hash = "267c274351efc6f294860501c8a0ba76478e7393cc2d4959ee4da4da30e9a2b2"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "91ed92cfe978fb0f4e217b428ee12a71252e4089d996391aab4e18ca916201c6"
+hash = "5b9ab5dfe6b219366d25603f9988a85223048114866f2e2e5a521f36c2dae1a8"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "552aff612276d262434c369df783b2ddc9d560c4bdf7d81d9549ebc3a8258c8d"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "a0c9abf9a809144417d6be144f8d2842d8612628b8258047ded0e6bfd3b7543f"
+hash = "5f8af808bbdff8d218ceecee736decc6776be239b5a9274ab2421c94cd96b2ab"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "169d3e8074da7178a6b0e6a164aeedaf7c3058fd9f6f37d5a82319b3ff2f6ec0"
-metafile = true
-
-[[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
+hash = "7e0428359715498f32c3b8dcec7ebe2157e927cfb1405653e02b688d1009809a"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "16fcb8def7f1eb68eb62ef3e1dc396e301874dca6ff18fddc192a4458e933915"
+hash = "25019577bdce2fdd99bdd66a9f9116012174a00eb00c0ca660df4d9753277b8a"
 metafile = true
 
 [[files]]

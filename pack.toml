@@ -1,16 +1,13 @@
 name = "Nguhcraft"
 author = "Ætérnal"
-version = "2.6.1"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "587786f21aeec4e6884bd88b2fa0f5f18398e79c4ebd4f768151259270e7661f"
+hash = "a507cc496b065f0c68b49e58735db47767918e3e23d235b785fb8ab9125c8299"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.8"
-
-[options]
-acceptable-game-versions = ["1.21.7"]
+fabric = "0.19.5"
+minecraft = "26.3"

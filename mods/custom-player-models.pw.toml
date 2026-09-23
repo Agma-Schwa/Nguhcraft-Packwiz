@@ -1,13 +1,13 @@
 name = "Customizable Player Models"
-filename = "CustomPlayerModels-Fabric-1.21.8-0.6.24a.jar"
+filename = "CustomPlayerModels-Fabric-26.3-0.6.27e.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/L4hGYAr5/CustomPlayerModels-Fabric-1.21.8-0.6.24a.jar"
+url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/y57itTtd/CustomPlayerModels-Fabric-26.3-0.6.27e.jar"
 hash-format = "sha1"
-hash = "37ccf13fea5df14bae75e7252c4dd0cf0ac9dc7e"
+hash = "6c14dd4e5ac0593c7bf3e405a70cfa50c4c514c7"
 
 [update]
 [update.modrinth]
 mod-id = "h1E7sQNL"
-version = "L4hGYAr5"
+version = "y57itTtd"
